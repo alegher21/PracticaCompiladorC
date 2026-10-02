@@ -1,6 +1,7 @@
 ---
 name: analizador-lexico-mini-c
-description: Especificación del analizador léxico de Mini-C definida por <Nombre del estudiante>. Úsala cuando debas implementar, probar o corregir el lexer de Mini-C: indica alfabeto, palabras reservadas, patrones por tipo de token, políticas de separación, prioridades y formato de salida.
+description: >-
+  Especificación del analizador léxico de Mini-C definida por <Nombre del estudiante>. Úsala cuando debas implementar, probar o corregir el lexer de Mini-C: indica alfabeto, palabras reservadas, patrones por tipo de token, políticas de separación, prioridades y formato de salida.
 ---
 
 # Analizador léxico de Mini-C
